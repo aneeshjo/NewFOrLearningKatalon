@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>With invalid credentials</description>
+   <name>Login_TC2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0b7f41c-4a24-40d6-b086-137165018558</testCaseGuid>
+</TestCaseEntity>
